@@ -97,24 +97,30 @@ textarea {
 header{
     text-align: center;
 
+
 }
 h1{
     font-size: 70px;
+
 }
 body{
     max-width: 756px;
     margin: 0 auto;
-
+    background: #aaaaaa;
 }
 a{
     color: white;
-ul {
+}
+ul{
     padding: 10px;
     background: rgba(0,0,0,0.5);
 }
 li{
     display: inline;
     padding: 0px 10px 0px 10px;
+}
+p{
+    text-align: center;
 }
 
 
